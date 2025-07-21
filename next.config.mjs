@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // You can set custom config here, but don’t manually set `basePath` or `assetPrefix`
   reactStrictMode: true,
+  // Do NOT manually set basePath or assetPrefix
 };
 
 export default nextConfig;
